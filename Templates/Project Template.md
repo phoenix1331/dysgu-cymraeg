@@ -31,4 +31,4 @@ tags:
 -
 
 ## Related
-- [[]]
+- (add related projects, meetings, or resources)

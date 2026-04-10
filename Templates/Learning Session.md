@@ -49,7 +49,5 @@ tags:
 -
 
 ## Links
-- Previous: [[]]
-- Next: [[]]
-- Main: [[Work/Skills/]]
 - Daily Note: [[Work/Daily Notes/{{date:YYYY-MM-DD}}]]
+- Skill Path: (add link to relevant learning path)

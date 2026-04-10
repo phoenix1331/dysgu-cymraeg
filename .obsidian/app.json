@@ -1,1 +1,15 @@
-{}
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "vimMode": false,
+  "attachmentFolderPath": "Assets",
+  "newFileLocation": "current"
+}

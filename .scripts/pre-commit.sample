@@ -1,0 +1,22 @@
+#!/bin/bash
+#
+# Git pre-commit hook to validate Obsidian links
+# Install: cp .scripts/pre-commit.sample .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+
+echo "🔍 Validating Obsidian links..."
+
+# Run the Python validator
+python3 .scripts/validate-links.py
+
+if [ $? -eq 0 ]; then
+    echo "✅ Link validation passed"
+    exit 0
+else
+    echo ""
+    echo "❌ Link validation failed!"
+    echo "Fix the broken links above before committing."
+    echo ""
+    echo "To bypass this check (not recommended):"
+    echo "  git commit --no-verify"
+    exit 1
+fi

@@ -5,7 +5,7 @@
 
 **Tags:** #learning/sql #databases #backend
 **Status:** 🌱 Seedling
-**Related:** [[learning/mysql/Databases MOC]] | [[learning/mysql/Joins Explained]] | [[learning/mysql/Indexing]]
+**Related:** [[Learning/MYSQL/Databases MOC]] | [[Learning/MYSQL/Joins Explained]] | [[Learning/MYSQL/Indexing]]
 
 -----
 
@@ -232,9 +232,9 @@ SELECT * FROM users WHERE last_login IS NOT NULL;
 - [ ] Understand INSERT, UPDATE, DELETE safely
 - [ ] Can write a basic INNER JOIN
 - [ ] Understand GROUP BY and aggregates
-- [ ] Know what indexes are and why they matter → [[learning/mysql/Indexing]]
-- [ ] Understand transactions → [[learning/mysql/Transactions & ACID]]
-- [ ] Explore subqueries and CTEs → [[learning/mysql/Advanced SQL]]
+- [ ] Know what indexes are and why they matter → [[Learning/MYSQL/Indexing]]
+- [ ] Understand transactions → [[Learning/MYSQL/Transactions & ACID]]
+- [ ] Explore subqueries and CTEs → [[Learning/MYSQL/Advanced SQL]]
 
 -----
 

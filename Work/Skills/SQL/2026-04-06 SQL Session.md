@@ -68,6 +68,6 @@ ORDER BY price DESC;
 
 ## Links
 - Previous: N/A
-- Next: [[Work/Skills/SQL/2026-04-07 SQL Session]]
+- Next: (create next session when ready)
 - Main: [[Work/Skills/SQL Learning Path]]
 - Daily Note: [[Work/Daily Notes/2026-04-06]]

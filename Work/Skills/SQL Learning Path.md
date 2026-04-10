@@ -25,17 +25,20 @@ tags:
 - [ ] Learn query optimization
 
 ## Resources
-- [SQL Tutorial Link]()
-- [Practice Platform]()
-- Books/Courses:
+- [[Learning/MYSQL/Databases MOC]] - Main learning library
+- [[Learning/MYSQL/SQL - Fundamentals]] - Start here
+- [[Learning/MYSQL/Terminology]] - Reference glossary
+- [SQLBolt](https://sqlbolt.com/) - Interactive exercises
+- [Use The Index, Luke](https://use-the-index-luke.com/) - Performance guide
 
 ## Learning Sessions
 - [[Work/Skills/SQL/2026-04-06 SQL Session]]
-- [[Work/Skills/SQL/2026-04-07 SQL Session]]
 
 ## Quick Reference Notes
 - [[Work/Skills/SQL/SQL Commands Cheatsheet]]
-- [[Work/Skills/SQL/Common Patterns]]
+- [[Learning/MYSQL/SQL - Fundamentals]] - Comprehensive fundamentals
+- [[Learning/MYSQL/Joins Explained]] - Deep dive on JOINs
+- [[Learning/MYSQL/Indexing]] - Performance optimization
 
 ## Practice Projects
 - [ ] Build sample database

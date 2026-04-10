@@ -11,7 +11,7 @@ tags:
 
 **Date:** {{date:YYYY-MM-DD}}
 **Attendees:**
-**Project:** [[]]
+**Project:** (link to project if applicable)
 
 ## Agenda
 1.
