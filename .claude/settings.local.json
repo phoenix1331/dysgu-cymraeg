@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(obsidian help:*)",
+      "Skill(obsidian-markdown)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
