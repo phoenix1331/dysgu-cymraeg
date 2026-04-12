@@ -12,11 +12,11 @@
 
 If you’re new to databases, work through these in order:
 
-1. [[Learning/MYSQL/SQL - Fundamentals]] — CRUD, SELECT, WHERE, JOINs
-2. [[Learning/MYSQL/Joins Explained]] — deep dive into JOIN types
-3. [[Learning/MYSQL/Indexing]] — how databases find data fast
-4. [[Learning/MYSQL/Transactions & ACID]] — keeping data consistent
-5. [[Learning/MYSQL/Advanced SQL]] — subqueries, CTEs, window functions
+1. [[Learning/Dev/MYSQL/SQL - Fundamentals]] — CRUD, SELECT, WHERE, JOINs
+2. [[Learning/Dev/MYSQL/Joins Explained]] — deep dive into JOIN types
+3. [[Learning/Dev/MYSQL/Indexing]] — how databases find data fast
+4. [[Learning/Dev/MYSQL/Transactions & ACID]] — keeping data consistent
+5. [[Learning/Dev/MYSQL/Advanced SQL]] — subqueries, CTEs, window functions
 
 -----
 
@@ -24,18 +24,18 @@ If you’re new to databases, work through these in order:
 
 ### Foundations
 
-- [[Learning/MYSQL/SQL - Fundamentals]]
-- [[Learning/MYSQL/Joins Explained]]
-- [[Learning/MYSQL/Indexing]]
+- [[Learning/Dev/MYSQL/SQL - Fundamentals]]
+- [[Learning/Dev/MYSQL/Joins Explained]]
+- [[Learning/Dev/MYSQL/Indexing]]
 
 ### Intermediate
 
-- [[Learning/MYSQL/Transactions & ACID]]
-- [[Learning/MYSQL/Advanced SQL]]
+- [[Learning/Dev/MYSQL/Transactions & ACID]]
+- [[Learning/Dev/MYSQL/Advanced SQL]]
 
 ### Reference
 
-- [[Learning/MYSQL/Terminology]] — 50+ terms explained: Cartesian product, hydration, N+1, normalisation and more
+- [[Learning/Dev/MYSQL/Terminology]] — 50+ terms explained: Cartesian product, hydration, N+1, normalisation and more
 
 -----
 

@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(obsidian help:*)",
-      "Skill(obsidian-markdown)"
+      "Skill(obsidian-markdown)",
+      "Bash(rm:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": [],
     "ask": []

@@ -2,7 +2,7 @@
 
 **Tags:** #learning/sql #databases #reference
 **Status:** 📖 Reference
-**Related:** [[Learning/MYSQL/Databases MOC]] | [[Learning/MYSQL/SQL - Fundamentals]] | [[Learning/MYSQL/Joins Explained]] | [[Learning/MYSQL/Advanced SQL]]
+**Related:** [[Learning/Dev/MYSQL/Databases MOC]] | [[Learning/Dev/MYSQL/SQL - Fundamentals]] | [[Learning/Dev/MYSQL/Joins Explained]] | [[Learning/Dev/MYSQL/Advanced SQL]]
 
 > [!info] How to use this note
 > This is a **reference glossary** — not meant to be read top to bottom. Use `Ctrl+F` to jump to a term, or follow links from other notes. Terms are grouped thematically, not alphabetically.
@@ -154,11 +154,11 @@ A query nested inside another query. When used in a `FROM` clause it’s sometim
 
 ### CTE (Common Table Expression)
 
-A named temporary result set defined with `WITH`. Makes complex queries readable by letting you build them in named steps. See [[Learning/MYSQL/Advanced SQL]].
+A named temporary result set defined with `WITH`. Makes complex queries readable by letting you build them in named steps. See [[Learning/Dev/MYSQL/Advanced SQL]].
 
 ### Window Function
 
-A function that calculates across a set of rows **related to the current row** without collapsing them into one. `RANK()`, `ROW_NUMBER()`, `LAG()`, `SUM() OVER()`. See [[Learning/MYSQL/Advanced SQL]].
+A function that calculates across a set of rows **related to the current row** without collapsing them into one. `RANK()`, `ROW_NUMBER()`, `LAG()`, `SUM() OVER()`. See [[Learning/Dev/MYSQL/Advanced SQL]].
 
 ### Execution Plan
 
@@ -170,7 +170,7 @@ The strategy the database engine chooses to execute your query — which indexes
 
 ### Index
 
-A separate data structure (usually a B-tree) built from one or more columns to make lookups faster. Trades slightly slower writes for much faster reads. See [[Learning/MYSQL/Indexing]].
+A separate data structure (usually a B-tree) built from one or more columns to make lookups faster. Trades slightly slower writes for much faster reads. See [[Learning/Dev/MYSQL/Indexing]].
 
 ### Full Table Scan
 
@@ -258,11 +258,11 @@ Loading related records **only when accessed**. Convenient but can silently trig
 
 ### Transaction
 
-A group of SQL statements treated as a single unit — all succeed or all are rolled back. See [[Learning/MYSQL/Transactions & ACID]].
+A group of SQL statements treated as a single unit — all succeed or all are rolled back. See [[Learning/Dev/MYSQL/Transactions & ACID]].
 
 ### ACID
 
-The four guarantees of a reliable transaction: **Atomic**, **Consistent**, **Isolated**, **Durable**. See [[Learning/MYSQL/Transactions & ACID]].
+The four guarantees of a reliable transaction: **Atomic**, **Consistent**, **Isolated**, **Durable**. See [[Learning/Dev/MYSQL/Transactions & ACID]].
 
 ### Referential Integrity
 

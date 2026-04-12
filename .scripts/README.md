@@ -52,8 +52,8 @@ Obsidian is case-insensitive on some systems but case-sensitive on others. The v
 
 ### Relative vs Absolute Links
 Use relative paths from vault root. Example:
-- ✅ `[[Learning/MYSQL/SQL - Fundamentals]]`
-- ❌ `[[learning/mysql/SQL - Fundamentals]]` (wrong case)
+- ✅ `[[Learning/Dev/MYSQL/SQL - Fundamentals]]`
+- ❌ `[[learning/dev/mysql/SQL - Fundamentals]]` (wrong case)
 
 ### Anchor Links
 Links with anchors/headings are supported:

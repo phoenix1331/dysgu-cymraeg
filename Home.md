@@ -18,7 +18,8 @@ Welcome to your Obsidian vault. This is your personal knowledge base synced with
 ### Main Hubs
 - [[Work/Work MOC|📊 Work]] — Projects, meetings, skills
 - [[Personal/Personal MOC|🏠 Personal]] — Goals, journal, tasks
-- [[Learning/MYSQL/Databases MOC|📚 SQL Learning]] — Database knowledge
+- [[Learning/Dev/MYSQL/Databases MOC|📚 SQL Learning]] — Database knowledge
+- [[Learning/Cymraeg/Cymraeg MOC|🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh Learning]] — Learning Cymraeg
 
 ## 📋 Recent Activity
 
@@ -58,7 +59,9 @@ python .scripts/validate-links.py
 │   ├── Tasks/         # Personal tasks
 │   └── Journal/       # Journaling
 ├── Learning/          # Learning resources
-│   └── MYSQL/         # SQL/Database learning
+│   ├── Dev/           # Development learning
+│   │   └── MYSQL/     # SQL/Database learning
+│   └── Cymraeg/       # Welsh language learning
 ├── Templates/         # Note templates
 └── Assets/            # Images, attachments
 ```

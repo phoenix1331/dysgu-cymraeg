@@ -25,9 +25,9 @@ tags:
 - [ ] Learn query optimization
 
 ## Resources
-- [[Learning/MYSQL/Databases MOC]] - Main learning library
-- [[Learning/MYSQL/SQL - Fundamentals]] - Start here
-- [[Learning/MYSQL/Terminology]] - Reference glossary
+- [[Learning/Dev/MYSQL/Databases MOC]] - Main learning library
+- [[Learning/Dev/MYSQL/SQL - Fundamentals]] - Start here
+- [[Learning/Dev/MYSQL/Terminology]] - Reference glossary
 - [SQLBolt](https://sqlbolt.com/) - Interactive exercises
 - [Use The Index, Luke](https://use-the-index-luke.com/) - Performance guide
 
@@ -36,9 +36,9 @@ tags:
 
 ## Quick Reference Notes
 - [[Work/Skills/SQL/SQL Commands Cheatsheet]]
-- [[Learning/MYSQL/SQL - Fundamentals]] - Comprehensive fundamentals
-- [[Learning/MYSQL/Joins Explained]] - Deep dive on JOINs
-- [[Learning/MYSQL/Indexing]] - Performance optimization
+- [[Learning/Dev/MYSQL/SQL - Fundamentals]] - Comprehensive fundamentals
+- [[Learning/Dev/MYSQL/Joins Explained]] - Deep dive on JOINs
+- [[Learning/Dev/MYSQL/Indexing]] - Performance optimization
 
 ## Practice Projects
 - [ ] Build sample database

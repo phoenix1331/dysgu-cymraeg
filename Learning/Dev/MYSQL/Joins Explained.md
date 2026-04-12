@@ -2,7 +2,7 @@
 
 **Tags:** #learning/sql #databases
 **Status:** 🌱 Seedling
-**Related:** [[Learning/MYSQL/Databases MOC]] | [[Learning/MYSQL/SQL - Fundamentals]]
+**Related:** [[Learning/Dev/MYSQL/Databases MOC]] | [[Learning/Dev/MYSQL/SQL - Fundamentals]]
 
 -----
 

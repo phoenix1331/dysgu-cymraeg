@@ -2,7 +2,7 @@
 
 **Tags:** #learning/sql #databases #performance
 **Status:** 🌱 Seedling
-**Related:** [[Learning/MYSQL/Databases MOC]] | [[Learning/MYSQL/SQL - Fundamentals]] | [[Learning/MYSQL/Advanced SQL]]
+**Related:** [[Learning/Dev/MYSQL/Databases MOC]] | [[Learning/Dev/MYSQL/SQL - Fundamentals]] | [[Learning/Dev/MYSQL/Advanced SQL]]
 
 -----
 

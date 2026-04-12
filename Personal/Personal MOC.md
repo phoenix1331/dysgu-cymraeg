@@ -26,7 +26,7 @@ Browse all: `Personal/Tasks/`
 
 ## 📔 Journal & Reflections
 
-Browse all: `Personal/Journal/`
+- Browse all: `Personal/Journal/`
 
 ## 🎨 Templates
 
@@ -38,7 +38,8 @@ Quick access to personal templates:
 ## 🔗 Related Areas
 
 - [[Work/Work MOC|Work MOC]] — Work organization
-- [[Learning/MYSQL/Databases MOC|SQL Learning]] — Technical learning
+- [[Learning/Dev/MYSQL/Databases MOC|SQL Learning]] — Technical learning
+- [[Learning/Cymraeg/Cymraeg MOC|Welsh Learning]] — Learning Cymraeg
 
 ---
 

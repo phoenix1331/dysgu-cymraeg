@@ -3,6 +3,9 @@
 ## Overview
 This vault is organized into Work and Personal areas with daily notes and task management.
 
+> [!info] Claude Code Integration
+> This repository is configured to work with [Claude Code](https://claude.ai/claude-code) using [Obsidian Skills](https://github.com/kepano/obsidian-skills). These skills teach Claude how to work with Obsidian-specific features like Markdown syntax, JSON Canvas, and vault management. The skills are installed in the `.claude/` directory and enable Claude to help with note-taking, organization, and knowledge management tasks.
+
 ## Folder Structure
 
 ```
@@ -16,8 +19,11 @@ This vault is organized into Work and Personal areas with daily notes and task m
 │   ├── Daily Notes/
 │   ├── Goals/
 │   ├── Tasks/
-│   ├── Learning/
 │   └── Journal/
+├── Learning/
+│   ├── Dev/
+│   │   └── MYSQL/
+│   └── Cymraeg/
 ├── Templates/
 │   ├── Work Daily Note.md
 │   ├── Personal Daily Note.md
@@ -33,7 +39,8 @@ This vault is organized into Work and Personal areas with daily notes and task m
 - **Home Page**: [[Home]] - Your vault dashboard
 - **Work Hub**: [[Work/Work MOC]] - All work-related content
 - **Personal Hub**: [[Personal/Personal MOC]] - Personal organization
-- **SQL Learning**: [[Learning/MYSQL/Databases MOC]] - Database knowledge library
+- **SQL Learning**: [[Learning/Dev/MYSQL/Databases MOC]] - Database knowledge library
+- **Welsh Learning**: [[Learning/Cymraeg/Cymraeg MOC]] - Learning Cymraeg
 
 ### Daily Notes
 
