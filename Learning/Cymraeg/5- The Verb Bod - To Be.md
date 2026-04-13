@@ -228,9 +228,9 @@ She will be good
 | Maen nhw'n dysgu Cymraeg | MINE nhoon DUH-sgee cum-RIGH-g | They are learning Welsh |
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/Common Verbs and Actions|Common Verbs]]
-- [[Learning/Cymraeg/Welsh Mutations|Mutations]] - Important for understanding changes to words
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/10- Common Verbs and Actions|Common Verbs]]
+- [[Learning/Cymraeg/9- Welsh Mutations|Mutations]] - Important for understanding changes to words
 
 ---
 

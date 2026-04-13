@@ -331,9 +331,9 @@ I'm leaving at seven o'clock
 | Gwelais i fe ddoe | GWEL-eyes ee VEH THOY | I saw him yesterday |
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/Numbers|Numbers]] - For dates and times
-- [[Learning/Cymraeg/Welsh to English Dictionary|Dictionary]]
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/4- Numbers|Numbers]] - For dates and times
+- [[Learning/Cymraeg/14- Welsh to English Dictionary|Dictionary]]
 
 ---
 

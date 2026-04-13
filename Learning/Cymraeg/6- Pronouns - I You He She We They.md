@@ -398,10 +398,10 @@ Yes, they're very happy
 | Dyn ni ddim yn barod | DIN nee THEEM un BAH-rod | We're not ready |
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/The Verb Bod - To Be|The Verb "Bod"]] - Full conjugation details
-- [[Learning/Cymraeg/Possessives - My Your His Her Our Their|Possessives]] - My, your, his, her, etc.
-- [[Learning/Cymraeg/Basic Phrases|Basic Phrases]]
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/5- The Verb Bod - To Be|The Verb "Bod"]] - Full conjugation details
+- [[Learning/Cymraeg/7- Possessives - My Your His Her Our Their|Possessives]] - My, your, his, her, etc.
+- [[Learning/Cymraeg/3- Basic Phrases|Basic Phrases]]
 
 ---
 

@@ -294,10 +294,10 @@ EEN DIGH TREE
 | 20 | dau ddeg | DIGH THEG |
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/Days Months and Time|Days and Time]] - Using numbers with dates and time
-- [[Learning/Cymraeg/Welsh Mutations|Mutations]] - Numbers cause mutations
-- [[Learning/Cymraeg/Welsh to English Dictionary|Dictionary]]
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/11- Days Months and Time|Days and Time]] - Using numbers with dates and time
+- [[Learning/Cymraeg/9- Welsh Mutations|Mutations]] - Numbers cause mutations
+- [[Learning/Cymraeg/14- Welsh to English Dictionary|Dictionary]]
 
 ---
 

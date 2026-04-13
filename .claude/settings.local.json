@@ -5,7 +5,8 @@
       "Skill(obsidian-markdown)",
       "Bash(rm:*)",
       "Bash(mkdir:*)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(/tmp/rename-cymraeg-files.sh)"
     ],
     "deny": [],
     "ask": []
