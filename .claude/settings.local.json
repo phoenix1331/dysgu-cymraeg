@@ -4,7 +4,8 @@
       "Bash(obsidian help:*)",
       "Skill(obsidian-markdown)",
       "Bash(rm:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(chmod:*)"
     ],
     "deny": [],
     "ask": []

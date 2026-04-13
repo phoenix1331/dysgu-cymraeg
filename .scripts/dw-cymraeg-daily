@@ -1,0 +1,5 @@
+#!/bin/bash
+# Wrapper script for Welsh daily practice generator
+# Usage: dw-cymraeg-daily
+
+exec "$(dirname "$0")/dw-cymraeg-daily.sh" "$@"
