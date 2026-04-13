@@ -171,7 +171,7 @@ Where is my wallet?
 
 ### Colors (Lliwiau)
 
-See [[Learning/Cymraeg/Colors and Patterns|Colors]] for full color vocabulary.
+See [[Learning/Cymraeg/12- Colors and Patterns|Colors]] for full color vocabulary.
 
 ## Useful Phrases
 
@@ -238,10 +238,10 @@ I need to change
 | Dw i eisiau trowsus du | DOO ee EYESS-yee TROW-siss DEE | I want black trousers |
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/Colors and Patterns|Colors and Patterns]]
-- [[Learning/Cymraeg/Welsh Mutations|Mutations]] - Important for clothing adjectives
-- [[Learning/Cymraeg/Welsh to English Dictionary|Dictionary]]
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/12- Colors and Patterns|Colors and Patterns]]
+- [[Learning/Cymraeg/9- Welsh Mutations|Mutations]] - Important for clothing adjectives
+- [[Learning/Cymraeg/14- Welsh to English Dictionary|Dictionary]]
 
 ---
 

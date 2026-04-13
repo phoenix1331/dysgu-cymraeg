@@ -299,10 +299,10 @@ Think of it like English: "a" vs "an" (a car / an apple). Welsh just does it mor
 | Mae ei char hi'n goch | Her car is red | ei (her) + aspirate |
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/The Verb Bod - To Be|Verb "Bod"]] - Uses yn with soft mutation
-- [[Learning/Cymraeg/Colors and Patterns|Colors]] - Mutate after feminine nouns
-- [[Learning/Cymraeg/Phonetics and Pronunciation|Phonetics]]
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/5- The Verb Bod - To Be|Verb "Bod"]] - Uses yn with soft mutation
+- [[Learning/Cymraeg/12- Colors and Patterns|Colors]] - Mutate after feminine nouns
+- [[Learning/Cymraeg/2- Phonetics and Pronunciation|Phonetics]]
 
 ---
 

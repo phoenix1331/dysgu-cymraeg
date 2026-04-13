@@ -112,8 +112,8 @@ tags:
 | Sut mae'n dweud...? | SEET mine DOO-id...? | How do you say...? |
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/Phonetics and Pronunciation|Phonetics Guide]]
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/2- Phonetics and Pronunciation|Phonetics Guide]]
 
 ---
 

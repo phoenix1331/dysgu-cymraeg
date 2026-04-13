@@ -195,10 +195,10 @@ Some colors combine with body parts to make adjectives:
 | Pa un wyt ti'n hoffi? Y glas neu'r gwyrdd? | PAH EEN weet teen HOF-fee? Uh GLAHS nair GOO-eerth? | Which do you like? The blue or the green? |
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/Clothing and Accessories|Clothing]] - Use colors with clothing
-- [[Learning/Cymraeg/Welsh Mutations|Mutations]] - Why colors change after feminine nouns
-- [[Learning/Cymraeg/Welsh to English Dictionary|Dictionary]]
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/13- Clothing and Accessories|Clothing]] - Use colors with clothing
+- [[Learning/Cymraeg/9- Welsh Mutations|Mutations]] - Why colors change after feminine nouns
+- [[Learning/Cymraeg/14- Welsh to English Dictionary|Dictionary]]
 
 ---
 

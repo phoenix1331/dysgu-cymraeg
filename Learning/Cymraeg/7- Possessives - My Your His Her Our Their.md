@@ -314,10 +314,10 @@ ei char = HER car (aspirate: c → ch)
 ```
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/Welsh Mutations|Mutations]] - Full guide to all mutations
-- [[Learning/Cymraeg/Pronouns - I You He She We They|Pronouns]] - I, you, he, she, we, they
-- [[Learning/Cymraeg/The Verb Bod - To Be|Verb "Bod"]]
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/9- Welsh Mutations|Mutations]] - Full guide to all mutations
+- [[Learning/Cymraeg/6- Pronouns - I You He She We They|Pronouns]] - I, you, he, she, we, they
+- [[Learning/Cymraeg/5- The Verb Bod - To Be|Verb "Bod"]]
 
 ---
 

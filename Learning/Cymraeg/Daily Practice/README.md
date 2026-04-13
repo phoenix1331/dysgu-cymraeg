@@ -92,7 +92,7 @@ Each day you'll get different phrases and vocabulary to keep practice fresh!
 Each practice note includes automatic links to:
 - **Previous day**: Yesterday's practice (if it exists)
 - **Next day**: Tomorrow's practice (placeholder for future)
-- **Back to MOC**: [[Learning/Cymraeg/Cymraeg MOC|Cymraeg MOC]]
+- **Back to MOC**: [[Learning/Cymraeg/1- Cymraeg MOC|Cymraeg MOC]]
 
 ## 🛠️ Command Details
 
@@ -124,8 +124,8 @@ Each practice note includes automatic links to:
 ## 🔄 Customization
 
 The script pulls from these files - you can edit them to customize your practice:
-- `Learning/Cymraeg/Basic Phrases.md`
-- `Learning/Cymraeg/Clothing and Accessories.md`
+- `Learning/Cymraeg/3- Basic Phrases.md`
+- `Learning/Cymraeg/13- Clothing and Accessories.md`
 
 Add more content to these files, and it will automatically appear in future practice sessions!
 
@@ -154,8 +154,8 @@ chmod +x .scripts/dw-cymraeg-daily.sh
 
 ### No random content appearing
 Check that your source files exist:
-- `Learning/Cymraeg/Basic Phrases.md`
-- `Learning/Cymraeg/Clothing and Accessories.md`
+- `Learning/Cymraeg/3- Basic Phrases.md`
+- `Learning/Cymraeg/13- Clothing and Accessories.md`
 
 ## 🎉 Benefits
 
@@ -167,6 +167,6 @@ Check that your source files exist:
 
 ---
 
-**Back to:** [[Learning/Cymraeg/Cymraeg MOC|Cymraeg MOC]]
+**Back to:** [[Learning/Cymraeg/1- Cymraeg MOC|Cymraeg MOC]]
 
 *Pob lwc gyda dy ymarfer! (Good luck with your practice!)*

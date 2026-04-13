@@ -115,8 +115,8 @@ a, b, c, ch, d, dd, e, f, ff, g, ng, h, i, j, l, ll, m, n, o, p, ph, r, rh, s, t
 5. Stress is usually on the second-to-last syllable
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/Basic Phrases|Basic Phrases]]
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/3- Basic Phrases|Basic Phrases]]
 
 ---
 

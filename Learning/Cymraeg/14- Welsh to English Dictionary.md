@@ -195,9 +195,9 @@ tags:
 | gwyn | GWIN | white |
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/Phonetics and Pronunciation|Phonetics Guide]]
-- [[Learning/Cymraeg/Basic Phrases|Basic Phrases]]
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/2- Phonetics and Pronunciation|Phonetics Guide]]
+- [[Learning/Cymraeg/3- Basic Phrases|Basic Phrases]]
 
 ---
 

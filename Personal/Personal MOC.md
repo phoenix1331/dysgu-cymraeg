@@ -39,7 +39,7 @@ Quick access to personal templates:
 
 - [[Work/Work MOC|Work MOC]] — Work organization
 - [[Learning/Dev/MYSQL/Databases MOC|SQL Learning]] — Technical learning
-- [[Learning/Cymraeg/Cymraeg MOC|Welsh Learning]] — Learning Cymraeg
+- [[Learning/Cymraeg/1- Cymraeg MOC|Welsh Learning]] — Learning Cymraeg
 
 ---
 

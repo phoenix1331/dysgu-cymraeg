@@ -19,7 +19,7 @@ Welcome to your Obsidian vault. This is your personal knowledge base synced with
 - [[Work/Work MOC|📊 Work]] — Projects, meetings, skills
 - [[Personal/Personal MOC|🏠 Personal]] — Goals, journal, tasks
 - [[Learning/Dev/MYSQL/Databases MOC|📚 SQL Learning]] — Database knowledge
-- [[Learning/Cymraeg/Cymraeg MOC|🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh Learning]] — Learning Cymraeg
+- [[Learning/Cymraeg/1- Cymraeg MOC|🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh Learning]] — Learning Cymraeg
 
 ## 📋 Recent Activity
 

@@ -418,11 +418,11 @@ She likes coffee but he likes tea
 ✅ Mae'r gath yn ddu (correct order)
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/The Verb Bod - To Be|Verb "Bod"]] - Essential for sentence building
-- [[Learning/Cymraeg/Pronouns - I You He She We They|Pronouns]]
-- [[Learning/Cymraeg/Welsh Mutations|Mutations]]
-- [[Learning/Cymraeg/Basic Phrases|Basic Phrases]]
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/5- The Verb Bod - To Be|Verb "Bod"]] - Essential for sentence building
+- [[Learning/Cymraeg/6- Pronouns - I You He She We They|Pronouns]]
+- [[Learning/Cymraeg/9- Welsh Mutations|Mutations]]
+- [[Learning/Cymraeg/3- Basic Phrases|Basic Phrases]]
 
 ---
 

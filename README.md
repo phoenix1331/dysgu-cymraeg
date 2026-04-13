@@ -40,7 +40,7 @@ This vault is organized into Work and Personal areas with daily notes and task m
 - **Work Hub**: [[Work/Work MOC]] - All work-related content
 - **Personal Hub**: [[Personal/Personal MOC]] - Personal organization
 - **SQL Learning**: [[Learning/Dev/MYSQL/Databases MOC]] - Database knowledge library
-- **Welsh Learning**: [[Learning/Cymraeg/Cymraeg MOC]] - Learning Cymraeg
+- **Welsh Learning**: [[Learning/Cymraeg/1- Cymraeg MOC]] - Learning Cymraeg
 
 ### Daily Notes
 

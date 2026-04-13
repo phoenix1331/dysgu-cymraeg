@@ -28,7 +28,7 @@ Browse all: `Work/Projects/`
 ### Learning Resources
 
 - [[Learning/Dev/MYSQL/Databases MOC]] — SQL fundamentals library
-- [[Learning/Cymraeg/Cymraeg MOC]] — Welsh language learning
+- [[Learning/Cymraeg/1- Cymraeg MOC]] — Welsh language learning
 - Browse all: `Learning/`
 
 ## 📋 Tasks & Tracking
@@ -63,7 +63,7 @@ Quick access to work templates:
 
 - [[Personal/Personal MOC|Personal MOC]] — Personal life organization
 - [[Learning/Dev/MYSQL/Databases MOC|SQL Learning]] — Technical learning
-- [[Learning/Cymraeg/Cymraeg MOC|Welsh Learning]] — Learning Cymraeg
+- [[Learning/Cymraeg/1- Cymraeg MOC|Welsh Learning]] — Learning Cymraeg
 
 ---
 

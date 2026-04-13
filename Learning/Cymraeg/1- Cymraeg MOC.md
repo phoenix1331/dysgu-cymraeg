@@ -17,23 +17,23 @@ tags:
 ## 🎯 Learning Path
 
 ### Beginner Essentials
-- [[Learning/Cymraeg/Phonetics and Pronunciation|Phonetics and Pronunciation]] - How to say Welsh sounds
-- [[Learning/Cymraeg/Basic Phrases|Basic Phrases]] - Common everyday phrases
-- [[Learning/Cymraeg/Numbers|Numbers]] - Counting, age, prices, and dates
+- [[Learning/Cymraeg/2- Phonetics and Pronunciation|Phonetics and Pronunciation]] - How to say Welsh sounds
+- [[Learning/Cymraeg/3- Basic Phrases|Basic Phrases]] - Common everyday phrases
+- [[Learning/Cymraeg/4- Numbers|Numbers]] - Counting, age, prices, and dates
 
 ### Core Grammar
-- [[Learning/Cymraeg/The Verb Bod - To Be|The Verb "Bod" (To Be)]] - Complete conjugation guide
-- [[Learning/Cymraeg/Pronouns - I You He She We They|Pronouns]] - I am, you are, he is, she is, we are, they are
-- [[Learning/Cymraeg/Possessives - My Your His Her Our Their|Possessives]] - My, your, his, her, our, their
-- [[Learning/Cymraeg/Sentence Structure and Word Order|Sentence Structure]] - Building sentences in Welsh
-- [[Learning/Cymraeg/Welsh Mutations|Welsh Mutations]] - Soft, nasal, and aspirate mutations
-- [[Learning/Cymraeg/Common Verbs and Actions|Common Verbs]] - Going, doing, eating, speaking, etc.
+- [[Learning/Cymraeg/5- The Verb Bod - To Be|The Verb "Bod" (To Be)]] - Complete conjugation guide
+- [[Learning/Cymraeg/6- Pronouns - I You He She We They|Pronouns]] - I am, you are, he is, she is, we are, they are
+- [[Learning/Cymraeg/7- Possessives - My Your His Her Our Their|Possessives]] - My, your, his, her, our, their
+- [[Learning/Cymraeg/8- Sentence Structure and Word Order|Sentence Structure]] - Building sentences in Welsh
+- [[Learning/Cymraeg/9- Welsh Mutations|Welsh Mutations]] - Soft, nasal, and aspirate mutations
+- [[Learning/Cymraeg/10- Common Verbs and Actions|Common Verbs]] - Going, doing, eating, speaking, etc.
 
 ### Vocabulary Topics
-- [[Learning/Cymraeg/Clothing and Accessories|Clothing and Accessories]] - What to wear
-- [[Learning/Cymraeg/Colors and Patterns|Colors and Patterns]] - Describing things
-- [[Learning/Cymraeg/Days Months and Time|Days, Months, and Time]] - Calendar and telling time
-- [[Learning/Cymraeg/Welsh to English Dictionary|Welsh to English Dictionary]] - Growing vocabulary list
+- [[Learning/Cymraeg/13- Clothing and Accessories|Clothing and Accessories]] - What to wear
+- [[Learning/Cymraeg/12- Colors and Patterns|Colors and Patterns]] - Describing things
+- [[Learning/Cymraeg/11- Days Months and Time|Days, Months, and Time]] - Calendar and telling time
+- [[Learning/Cymraeg/14- Welsh to English Dictionary|Welsh to English Dictionary]] - Growing vocabulary list
 
 ## 📚 Resources
 

@@ -292,9 +292,9 @@ chwilio am = searching for
 ```
 
 ## Related Notes
-- [[Learning/Cymraeg/Cymraeg MOC|Back to Cymraeg MOC]]
-- [[Learning/Cymraeg/The Verb Bod - To Be|The Verb "Bod"]]
-- [[Learning/Cymraeg/Welsh Mutations|Mutations]] - Verbs change after certain words
+- [[Learning/Cymraeg/1- Cymraeg MOC|Back to Cymraeg MOC]]
+- [[Learning/Cymraeg/5- The Verb Bod - To Be|The Verb "Bod"]]
+- [[Learning/Cymraeg/9- Welsh Mutations|Mutations]] - Verbs change after certain words
 
 ---
 

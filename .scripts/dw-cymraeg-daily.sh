@@ -281,7 +281,7 @@ Remember: Both his/her use "ei" but different mutations!
 
 **Previous:** [[Learning/Cymraeg/Daily Practice/$PREV_DATE|Yesterday's Practice]]
 **Next:** [[Learning/Cymraeg/Daily Practice/$NEXT_DATE|Tomorrow's Practice]]
-**Back to:** [[Learning/Cymraeg/Cymraeg MOC|Cymraeg MOC]]
+**Back to:** [[Learning/Cymraeg/1- Cymraeg MOC|Cymraeg MOC]]
 
 ---
 
