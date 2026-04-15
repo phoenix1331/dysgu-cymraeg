@@ -1,48 +1,17 @@
 # TODO - Remaining Welsh Learning Tasks
 
-## ✅ Completed (Week 1-2)
+## ✅ Completed (Weeks 1-4)
 - [x] Module 15 - Prepositions and Prepositional Phrases
 - [x] Module 16 - Asking Questions
+- [x] Module 17 - Common Verb Conjugations ✅ NEW
 - [x] Vocab-01 - Food and Drink
 - [x] Vocab-02 - Household and Daily Life
 - [x] Vocab-03 - Body Parts and Health
+- [x] Vocab-04 - Animals and Nature ✅ NEW
+- [x] Vocab-05 - Places and Locations ✅ NEW
 - [x] Discussion 11 - Supermarket and Shopping
-- [x] Progress Tracker.md
-
----
-
-## 🔄 Short-term Priority (Week 3-4)
-
-### Grammar
-- [ ] Module 17 - Common Verb Conjugations
-  - Regular verb patterns (present/past/future)
-  - Irregular verbs: mynd, dod, cael, gwneud, gweld, dweud
-  - Compound tenses (Dw i wedi..., Dw i'n mynd i...)
-  - Imperative forms
-
-### Vocabulary
-- [ ] Vocab-04 - Animals and Nature (150+ words)
-  - Pets, farm animals, wild animals, birds, insects, sea creatures
-  - Plants, trees, flowers
-  - Weather, landscapes, environmental terms
-
-- [ ] Vocab-05 - Places and Locations (100+ words)
-  - Buildings, public places, shops, services
-  - Welsh regions and place names
-  - Directions vocabulary
-
-### Dialogues
-- [ ] Discussion 12 - Banking and Official Business (400+ lines)
-  - Opening accounts, deposits/withdrawals
-  - Post office transactions
-  - Government offices
-  - Filling out forms, making appointments
-
-- [ ] Discussion 13 - Housing and Utilities (400+ lines)
-  - Viewing properties, discussing rent
-  - Setting up utilities
-  - Maintenance requests
-  - Landlord/neighbor conversations
+- [x] Discussion 12 - Banking and Official Business ✅ NEW
+- [x] Discussion 13 - Housing and Utilities ✅ NEW
 
 ---
 
@@ -152,16 +121,16 @@
 ## 📈 Summary
 
 **Total Tasks:** 35
-**Completed:** 7 (20%)
-**Remaining:** 28 (80%)
+**Completed:** 11 (31%)
+**Remaining:** 24 (69%)
 
-**Current Phase:** Week 3-4 (Short-term)
+**Current Phase:** Month 2 (Medium-term)
 **Next 5 Tasks:**
-1. Module 17 - Verb Conjugations
-2. Vocab-04 - Animals and Nature
-3. Vocab-05 - Places and Locations
-4. Discussion 12 - Banking
-5. Discussion 13 - Housing
+1. Vocab-06 - Action Verbs Collection
+2. Discussion 14 - Emergency Situations
+3. Discussion 15 - Social Events
+4. Weekly Practice/README - 12 Week Curriculum
+5. Week 01-04 Assessments
 
 ---
 

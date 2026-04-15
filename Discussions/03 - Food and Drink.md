@@ -3,19 +3,19 @@
 ## At a Café
 
 **Person A:** Wyt ti eisiau mynd i gael coffi?
-*(weet tee ay-shah mind ee gah-el koff-ee?)*
+*(weet tee AY-shah meend ee GY-el KOFF-ee?)*
 *Do you want to go get coffee?*
 
 **Person B:** Syniad da! Ble hoffet ti fynd?
-*(suhn-yad dah! bleh hoff-et tee vind?)*
+*(SUN-yad dah! bleh HOFF-et tee veend?)*
 *Good idea! Where would you like to go?*
 
 **Person A:** Beth am y caffi newydd yn y dre?
-*(beth am uh kaff-ee neh-with uhn uh dreh?)*
+*(beth am uh KAFF-ee NEH-with un uh dreh?)*
 *How about the new café in town?*
 
 **Person B:** Iawn, awn ni!
-*(yown, ah-oon nee!)*
+*(YOWN, OWN nee!)*
 *Okay, let's go!*
 
 ---

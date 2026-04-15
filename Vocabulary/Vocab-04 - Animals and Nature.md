@@ -23,16 +23,19 @@ tags:
 |-------|--------|---------------|---------|-------|
 | **ci** | m | KEE | dog | pl: cŵn |
 | **cath** | f | KATH | cat | pl: cathod |
-| **pysgodyn aur** | m | puss-GOD-in EYER | goldfish | lit: "gold fish" |
+| **cath wyllt** | f | KATH WEELHT | feral cat | lit: "wild cat" |
 | **cwningen** | f | KWIN-ing-en | rabbit | pl: cwningod |
+| **pysgodyn** | m | puss-GOD-in | fish | pl: pysgod |
+| **pysgodyn aur** | m | puss-GOD-in EYER | goldfish | lit: "gold fish" |
+| **aderyn** | m | ad-ER-in | bird | pl: adar |
 | **bochdew** | m | BOKH-deh-oo | hamster | pl: bochdewod |
 | **gerbil** | m | GER-bil | gerbil | pl: gerbilod |
 | **llygoden** | f | LHUG-od-en | mouse | pl: llygod |
 | **iâr** | f | EE-ar | hen/chicken | pl: ieir |
-| **aderyn** | m | ad-ER-in | bird | pl: adar |
 | **parot** | m | PAR-ot | parrot | pl: parotod |
 | **crwban** | m | KROO-ban | tortoise/turtle | pl: crwbanod |
 | **neidr** | f | NAYD-r | snake | pl: nadroedd |
+| **gwenci** | f | GWEN-kee | guinea pig | pl: gwencïod |
 
 ---
 
@@ -42,23 +45,35 @@ tags:
 |-------|--------|---------------|---------|-------|
 | **buwch** | f | BEEKH | cow | pl: buchod |
 | **tarw** | m | TAR-oo | bull | pl: teirw |
+| **bustach** | m | BISS-takh | steer | pl: bustaich |
 | **llo** | m | LHOH | calf | pl: lloi |
+| **gwartheg** | pl | GWAR-theg | cattle | collective |
 | **ceffyl** | m | KEF-il | horse | pl: ceffylau |
 | **caseg** | f | KAS-eg | mare | pl: cesig |
+| **stalwyn** | m | STAL-win | stallion | pl: stalwyni |
 | **ebol** | m | EB-ol | foal | pl: ebolion |
 | **mochyn** | m | MOKH-in | pig | pl: moch |
 | **perchyll** | m | PER-khith | piglet | pl: perchyll |
+| **hwch** | f | HOOKH | sow | pl: hychod |
+| **baedd** | m | BEYETH | boar | pl: baeddod |
 | **dafad** | f | DAV-ad | sheep | pl: defaid |
 | **maharen** | m | ma-HAR-en | ram | pl: meirch (or: hyrddod) |
+| **hwrdd** | m | HOOR-th | ram | pl: hyrddod |
 | **oen** | m | OY-n | lamb | pl: ŵyn |
+| **mamog** | f | MAM-og | ewe | pl: mamogiaid |
 | **gafr** | f | GAV-r | goat | pl: geifr |
-| **hwch** | f | HOOKH | sow | pl: hychod |
+| **bwch gafr** | m | BOOKH GAV-r | billy goat | |
+| **myn** | m | MEEN | kid (young goat) | pl: mynnod |
 | **asyn** | m | AS-in | donkey | pl: asynnod |
-| **iar** | f | EE-ar | chicken | pl: ieir |
+| **mul** | m | MEEL | mule | pl: mulod |
+| **iâr** | f | EE-ar | hen/chicken | pl: ieir |
 | **ceiliog** | m | KAYL-yog | rooster | pl: ceiliogod |
+| **cyw** | m | KEW | chick | pl: cywion |
 | **hwyaden** | f | HWEE-ad-en | duck | pl: hwyaid |
+| **hwyaden wyllt** | f | HWEE-ad-en WEELHT | wild duck/mallard | |
 | **gŵydd** | f | GOO-eeth | goose | pl: gwyddau |
 | **twrci** | m | TOOR-kee | turkey | pl: twrcïod |
+| **pethau** | m | PETH-eye | peacock | pl: pethai |
 
 ---
 
@@ -67,30 +82,48 @@ tags:
 | Welsh | Gender | Pronunciation | English | Notes |
 |-------|--------|---------------|---------|-------|
 | **llwynog** | m | LHOO-ee-nog | fox | pl: llwynogod |
+| **cadno** | m | KAD-noh | fox | alternative to llwynog |
+| **llwynog coch** | m | LHOO-ee-nog KOKH | red fox | |
 | **mochyn daear** | m | MOKH-in DEYE-ar | badger | lit: "earth pig" |
+| **broch** | m | BROKH | badger | alternative |
 | **draenog** | m | dreye-NOG | hedgehog | pl: draenogod |
 | **gwiwer** | f | GWEE-oo-er | squirrel | pl: gwiwerod |
+| **gwiwer lwyd** | f | GWEE-oo-er LOO-id | grey squirrel | |
+| **gwiwer goch** | f | GWEE-oo-er GOKH | red squirrel | |
 | **cwningen** | f | KWIN-ing-en | rabbit | pl: cwningod |
 | **ysgyfarnog** | f | uss-guv-AR-nog | hare | pl: ysgyfarnogod |
 | **llygoden** | f | LHUG-od-en | mouse | pl: llygod |
+| **llygoden y maes** | f | LHUG-od-en uh MEYESS | field mouse | |
+| **llygoden bengron** | f | LHUG-od-en PEN-gron | vole | pl: llygod pengron |
 | **llygoden fawr** | f | LHUG-od-en VOW-r | rat | lit: "big mouse" |
+| **cath wyllt** | f | KATH WEELHT | wildcat | pl: cathod gwyllt |
 | **carw** | m | KAR-oo | deer | pl: ceirw |
+| **carw coch** | m | KAR-oo KOKH | red deer | |
 | **hydd** | m | HEETH | stag | pl: hyddod |
 | **ewig** | f | EH-wig | doe | pl: ewigod |
+| **iwrch** | m | EE-oor-kh | roe deer | pl: iwrchiaid |
 | **blaidd** | m | BLEYETH | wolf | pl: bleiddiaid |
 | **arth** | m/f | ARTH | bear | pl: eirth |
-| **cadno** | m | KAD-noh | fox | alternative to llwynog |
+| **arth frown** | m/f | ARTH BROW-n | brown bear | |
 | **dyfrgi** | m | DUV-r-gee | otter | pl: dyfrgwn |
-| **broch** | m | BROKH | badger | alternative |
 | **pathew** | m | PATH-eh-oo | stoat | pl: pathewod |
 | **carlwm** | m | KAR-loom | weasel | pl: carlymau |
 | **llwdn** | m | LHOOD-n | polecat | pl: llwdnod |
+| **bele** | m | BEL-eh | marten | pl: belod |
 | **palfod** | f | PAL-vod | bat | pl: pelfod |
+| **ystlum** | m | UHST-lim | bat | pl: ystlumod |
 | **llew** | m | LHEH-oo | lion | pl: llewod |
+| **llewes** | f | LHEH-oo-ess | lioness | pl: llewesau |
 | **teigr** | m | TAYG-r | tiger | pl: teigrod |
 | **eliffant** | m | el-IF-ant | elephant | pl: eliffantod |
+| **rhinoseros** | m | rhin-OS-er-oss | rhinoceros | pl: rhinoserosiaid |
+| **hipopotamus** | m | hip-oh-POT-a-miss | hippopotamus | pl: hipopotamysi |
 | **sirafft** | m | shir-AFFT | giraffe | pl: siraff |
 | **sebra** | m | SEB-rah | zebra | pl: sebras |
+| **cangarŵ** | m | kan-GAR-oo | kangaroo | pl: cangarŵod |
+| **mwnci** | m | MOON-kee | monkey | pl: mwncïod |
+| **gorila** | m | gor-IL-ah | gorilla | pl: gorilas |
+| **tsimpansi** | m | tsim-PAN-see | chimpanzee | pl: tsimpansis |
 
 ---
 
@@ -101,29 +134,59 @@ tags:
 | **aderyn** | m | ad-ER-in | bird | pl: adar |
 | **robin goch** | m | ROB-in GOKH | robin | lit: "red robin" |
 | **aderyn y to** | m | ad-ER-in uh TOH | sparrow | lit: "roof bird" |
+| **golfan** | f | GOL-van | sparrow | pl: golfanod |
 | **dryw** | m | DREE-oo | wren | pl: drywod |
+| **dryw eurben** | m | DREE-oo EYER-ben | goldcrest | lit: "golden-headed wren" |
 | **bronfraith** | f | BRON-vreye-th | thrush | pl: bronfraithod |
+| **bronfraith y garreg** | f | BRON-vreye-th uh GAR-eg | ring ouzel | |
 | **mwyalchen** | f | moo-YAL-khen | blackbird | pl: mwyeilch |
+| **aderyn du** | m | ad-ER-in DEE | blackbird | alternative |
 | **titw** | m | TIT-oo | tit (bird) | pl: titw |
 | **titw tomos las** | m | TIT-oo TOM-oss LAHS | blue tit | |
+| **titw mawr** | m | TIT-oo MOW-r | great tit | lit: "big tit" |
+| **titw cynffon hir** | m | TIT-oo KUN-fon HEER | long-tailed tit | |
+| **titw penddu** | m | TIT-oo PEN-thee | coal tit | lit: "black-headed tit" |
 | **pioden** | f | pee-OD-en | magpie | pl: piod |
+| **pica** | m | PIK-ah | magpie | alternative |
 | **brân** | f | BRAHN | crow | pl: brain |
 | **cigfran** | f | KIG-vran | raven | pl: cigfrain |
+| **ydfran** | f | UD-vran | rook | pl: ydfrain |
 | **jac-y-do** | m | JAK-uh-DOH | jackdaw | pl: jac-y-dos |
+| **jac-do** | m | JAK-doh | jackdaw | alternative |
 | **colomen** | f | kol-OM-en | dove/pigeon | pl: colomennod |
+| **colomen y graig** | f | kol-OM-en uh GREYEG | rock dove | |
+| **turtur** | m | TIR-tir | turtle dove | pl: turturod |
 | **hebog** | m | HEB-og | hawk | pl: hebogau |
+| **hebog tramor** | m | HEB-og TRAM-or | peregrine falcon | |
 | **barcud** | m | BAR-kid | kite | pl: barcutiaid |
+| **barcud coch** | m | BAR-kid KOKH | red kite | |
 | **boda** | m | BOD-ah | buzzard | pl: bodau |
+| **boda tinwyn** | m | BOD-ah TIN-win | rough-legged buzzard | |
 | **cudyll** | m | KID-ith | kestrel | pl: cudyllod |
+| **cudyll coch** | m | KID-ith KOKH | kestrel | lit: "red kestrel" |
 | **tylluan** | f | tuh-LHEE-an | owl | pl: tylluanod |
+| **tylluan wen** | f | tuh-LHEE-an WEN | barn owl | lit: "white owl" |
+| **tylluan frech** | f | tuh-LHEE-an VREKH | tawny owl | lit: "speckled owl" |
+| **tylluan glustiog** | f | tuh-LHEE-an GLIS-tyog | long-eared owl | |
 | **gwalch** | m | GWALKH | hawk | pl: gwelich |
+| **gwalch y pysgod** | m | GWALKH uh PUSS-god | osprey | lit: "fish hawk" |
+| **eryr** | m | ER-ir | eagle | pl: eryrod |
+| **eryr euraidd** | m | ER-ir EYER-eyeth | golden eagle | |
 | **elarch** | m | EL-arkh | swan | pl: elyrch |
+| **alarch** | m | AL-arkh | swan | alternative spelling |
 | **hwyaden** | f | HWEE-ad-en | duck | pl: hwyaid |
+| **hwyaden wyllt** | f | HWEE-ad-en WEELHT | mallard | lit: "wild duck" |
 | **gŵydd** | f | GOO-eeth | goose | pl: gwyddau |
+| **gŵydd wyllt** | f | GOO-eeth WEELHT | greylag goose | |
 | **gwylan** | f | GWEE-lan | seagull | pl: gwylanod |
+| **gwylan y penwaig** | f | GWEE-lan uh PEN-weyeg | herring gull | |
 | **coch-y-berllan** | m | KOKH-uh-BER-hlan | bullfinch | |
 | **llinos** | f | LHIN-oss | linnet | pl: llinosod |
+| **llinos werdd** | f | LHIN-oss WERTH | greenfinch | lit: "green linnet" |
 | **nico** | m | NIK-oh | chaffinch | pl: nicos |
+| **penfelyn** | m | PEN-vel-in | yellowhammer | lit: "yellow-head" |
+| **ehedydd** | m | eh-HED-ith | skylark | pl: ehedyddion |
+| **corhedydd** | m | kor-HED-ith | lapwing | pl: corhedyddion |
 
 ---
 
@@ -132,29 +195,53 @@ tags:
 | Welsh | Gender | Pronunciation | English | Notes |
 |-------|--------|---------------|---------|-------|
 | **pryf** | m | PREEV | insect/fly | pl: pryfed |
+| **pryfyn** | m | PRUV-in | insect | pl: pryfed |
 | **cleren** | f | KLER-en | fly | pl: clêr |
+| **pry** | m | PREE | fly/insect | pl: pryfed |
 | **gwenynen** | f | gwen-UN-en | bee | pl: gwenyn |
+| **gwenynen fêl** | f | gwen-UN-en VAIL | honey bee | lit: "honey bee" |
 | **cacynen** | f | kak-UN-en | wasp | pl: cacwn |
+| **cacynen feirch** | f | kak-UN-en VAYRCH | hornet | lit: "horse wasp" |
+| **gwenyn meirch** | pl | GWEN-in MAYRCH | hornets | collective |
 | **pili-pala** | m | pil-ee-PAL-ah | butterfly | pl: pili-palod |
+| **iâr fach yr haf** | f | EE-ar VAKH eer HAV | butterfly | lit: "summer's little hen" |
 | **gwyfyn** | m | GWUH-vin | moth | pl: gwyf |
+| **pilipala nos** | m | pil-ee-PAL-ah NOSS | moth | lit: "night butterfly" |
 | **morgrug** | pl | MOR-greeg | ants | collective |
 | **morgrugyn** | m | mor-GREEG-in | ant | singular |
 | **corryn** | m | KOR-in | spider | pl: corynnod |
-| **gwe pry cop** | f | GWEH pree KOP | spider's web | lit: "web spider" |
+| **cop** | m | KOP | spider | pl: copod |
 | **pry cop** | m | pree KOP | spider | alternative |
+| **gwe pry cop** | f | GWEH pree KOP | spider's web | lit: "web spider" |
+| **gwe corryn** | f | GWEH KOR-in | spider's web | |
 | **chwilen** | f | KHWIL-en | beetle | pl: chwilod |
+| **chwilen ddu** | f | KHWIL-en THEE | black beetle | |
+| **chwilen farcud** | f | KHWIL-en VAR-kid | ladybird | lit: "kite beetle" |
+| **buwch goch gota** | f | BEEKH GOKH GOT-ah | ladybird | lit: "short red cow" |
 | **pryfyn clust** | m | PRUV-in KLEEST | earwig | lit: "ear insect" |
+| **clust-wiber** | m | KLEEST-WEE-ber | earwig | alternative |
 | **chwannen** | f | KHWAN-en | flea | pl: chwain |
 | **llau** | pl | LHEYE | lice | collective |
 | **lleuen** | f | LHEY-en | louse | singular |
-| **neidr fagnellog** | f | NAYD-r vag-NEL-og | slow worm | |
+| **lleuen ben** | f | LHEY-en BEN | head louse | |
+| **mosgito** | m | moss-KEE-toh | mosquito | pl: mosgitos |
+| **cleran** | f | KLER-an | midge | pl: clêr |
 | **malwoden** | f | mal-WOD-en | snail | pl: malwod |
 | **malwen** | f | MAL-wen | slug | pl: malwod |
+| **malwen goch** | f | MAL-wen GOKH | red slug | |
 | **genwair** | f | GEN-weyer | worm | pl: genweiriau |
+| **pryf genwair** | m | PREEV GEN-weyer | earthworm | |
+| **abwydyn** | m | AB-wid-in | worm/maggot | pl: abwydod |
+| **cynrhonyn** | m | kun-RHON-in | maggot | pl: cynrhon |
 | **pryf genau** | m | preev GEN-eye | dragonfly | |
 | **pryf neidr** | m | preev NAYD-r | dragonfly | alternative |
 | **gwas y neidr** | m | GWASS uh NAYD-r | dragonfly | lit: "snake's servant" |
-| **pilipala nos** | m | pil-ee-PAL-ah NOSS | moth | lit: "night butterfly" |
+| **gwas-y-neidr coch** | m | GWASS-uh-NAYD-r KOKH | red dragonfly | |
+| **pili copa** | m | PIL-ee KOP-ah | daddy-long-legs | |
+| **cricedyn** | m | krik-ED-in | cricket | pl: cricedod |
+| **ceiliog rhedyn** | m | KAYL-yog RHED-in | grasshopper | lit: "fern cockerel" |
+| **locust** | m | LOK-ist | locust | pl: locustiaid |
+| **sionci** | m | SHON-kee | woodlouse | pl: sionc |
 
 ---
 
@@ -163,30 +250,57 @@ tags:
 | Welsh | Gender | Pronunciation | English | Notes |
 |-------|--------|---------------|---------|-------|
 | **pysgodyn** | m | puss-GOD-in | fish | pl: pysgod |
+| **pysgodyn aur** | m | puss-GOD-in EYER | goldfish | lit: "gold fish" |
 | **morfil** | m | MOR-vil | whale | pl: morfilod |
+| **morfil glas** | m | MOR-vil GLAHS | blue whale | |
+| **morfil torthog** | m | MOR-vil TOR-thog | humpback whale | |
+| **morfil lladdwr** | m | MOR-vil LHATH-oor | killer whale/orca | lit: "killer whale" |
 | **dolffin** | m | DOL-fin | dolphin | pl: dolffinau |
+| **llamhidydd** | m | LHAM-hid-ith | porpoise | pl: llamhidyddion |
 | **môr-loi** | m | MOHR-loy | seal | pl: morloi |
+| **morlo** | m | MOR-loh | seal | alternative |
+| **morlo llwyd** | m | MOR-loh LHOO-id | grey seal | |
 | **siarc** | m | SHARK | shark | pl: siarciaid |
+| **siarc gwyn** | m | SHARK GOO-in | great white shark | |
+| **morgath** | f | MOR-gath | shark | lit: "sea cat" |
 | **llysywen** | f | lhuss-UH-wen | eel | pl: llysywod |
+| **llysywen fôr** | f | lhuss-UH-wen VOHR | conger eel | lit: "sea eel" |
 | **eog** | m | EH-og | salmon | pl: eogiaid |
 | **brithyll** | m | BRITH-ith | trout | pl: brithyll |
+| **brithyll y môr** | m | BRITH-ith uh MOHR | sea trout | |
 | **penfras** | m | PEN-vras | cod | pl: penfras |
+| **corbenfras** | m | kor-BEN-vras | whiting | pl: corbenfras |
 | **macrell** | m | MAK-rell | mackerel | pl: macrell |
 | **lleden** | f | LHEH-then | plaice | pl: lledod |
+| **lleden chwithig** | f | LHEH-then KHWEETH-ig | flounder | |
+| **tafod yr ych** | m | TAV-od eer UHKH | sole | lit: "ox's tongue" |
 | **silod** | pl | SIL-od | herrings | collective |
 | **pennog** | m | PEN-og | herring | singular |
+| **penfras** | m | PEN-vras | haddock | pl: penfras |
+| **tiwna** | m | tee-OO-nah | tuna | pl: tiwna |
+| **eog coch** | m | EH-og KOKH | red salmon | |
 | **octopws** | m | ok-TOP-oos | octopus | pl: octopysi |
+| **wytgoes** | m | WEET-goyss | octopus | lit: "eight-legs" |
 | **sglefren fôr** | f | SKLEV-ren VOHR | jellyfish | lit: "sea slider" |
 | **slefren fôr** | f | SLEV-ren VOHR | jellyfish | alternative |
 | **cranc** | m | KRANK | crab | pl: crancod |
+| **cranc y môr** | m | KRANK uh MOHR | sea crab | |
 | **cimwch** | m | KIM-ookh | lobster | pl: cimychiaid |
+| **cimwch coch** | m | KIM-ookh KOKH | red lobster | |
 | **corgimwch** | m | kor-GIM-ookh | prawn/shrimp | pl: corgimychiaid |
+| **berdys** | m | BER-diss | shrimp | pl: berdysau |
 | **cragen** | f | KRAG-en | shell | pl: cregyn |
 | **cragen las** | f | KRAG-en LAHS | mussel | pl: cregyn gleision |
 | **cragen bylchog** | f | KRAG-en BULL-khog | scallop | pl: cregyn bylchog |
+| **cragen wystrys** | f | KRAG-en WISS-triss | oyster shell | |
+| **wystrys** | m | WISS-triss | oyster | pl: wystrysod |
+| **cocos** | f | KOK-oss | cockle | pl: cocosau |
 | **seren fôr** | f | SER-en VOHR | starfish | lit: "sea star" |
 | **draenog y môr** | m | dreye-NOG uh MOHR | sea urchin | lit: "sea hedgehog" |
+| **gwichiaid** | m | GWEEKH-yed | sea anemone | pl: gwichiaid |
+| **cwrel** | m | KOO-rel | coral | pl: cwrelau |
 | **môr-forwyn** | f | MOHR-VOR-win | mermaid | pl: môr-forynion |
+| **môr-leidr** | m | MOHR-LAYD-r | pirate | lit: "sea thief" |
 
 ---
 
