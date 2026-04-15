@@ -6,7 +6,8 @@
       "Bash(rm:*)",
       "Bash(mkdir:*)",
       "Bash(chmod:*)",
-      "Bash(/tmp/rename-cymraeg-files.sh)"
+      "Bash(/tmp/rename-cymraeg-files.sh)",
+      "Bash(tree:*)"
     ],
     "deny": [],
     "ask": []
