@@ -3,81 +3,81 @@
 ## Talking About Work
 
 **Person A:** Beth wyt ti'n wneud i waith?
-*(beth weet teen oo-nay-d ee wah-eeth?)*
+*(beth weet teen OO-nayd ee WEYTH?)*
 *What do you do for work?*
 
 **Person B:** Dw i'n athro. Beth amdanat ti?
-*(doo een ath-roh. beth am-dan-at tee?)*
+*(doo een ATH-roh. beth am-DAN-at tee?)*
 *I'm a teacher. What about you?*
 
 **Person A:** Dw i'n gweithio mewn swyddfa.
-*(doo een gway-thyoh mew-in swuh-thfah)*
+*(doo een GWAY-thee-oh mew-in SWUH-thfah)*
 *I work in an office.*
 
 ---
 
 **Person A:** Ble wyt ti'n gweithio?
-*(bleh weet teen gway-thyoh?)*
+*(bleh weet teen GWAY-thee-oh?)*
 *Where do you work?*
 
 **Person B:** Dw i'n gweithio yn [place]. Ers pryd wyt ti yn dy swydd?
-*(doo een gway-thyoh uhn [place]. erss preed weet tee uhn duh swoith?)*
+*(doo een GWAY-thee-oh un [place]. erss preed weet tee un duh SWOYTH?)*
 *I work in [place]. How long have you been in your job?*
 
 **Person A:** Dw i wedi bod yno ers tair blynedd.
-*(doo ee weh-dee bohd uhn-oh erss tah-eer bluhn-eedh)*
+*(doo ee WEH-dee bohd UN-oh erss TEYER BLUN-eth)*
 *I've been there for three years.*
 
 ---
 
 **Person A:** Wyt ti'n mwynhau dy waith?
-*(weet teen moy-nhah-ee duh wah-eeth?)*
+*(weet teen MWIN-high duh WEYTH?)*
 *Do you enjoy your work?*
 
 **Person B:** Ydw, mae'n ddiddorol iawn. Ond weithiau mae'n brysur iawn! Wyt ti'n hoffi dy waith?
-*(uh-doo, mah-een thee-thor-ol yown. ond way-thyah-ee mah-een bruh-sir yown! weet teen hoff-ee duh wah-eeth?)*
+*(UH-doo, mine THEE-thor-ol YOWN. ond way-THEE-eye mine BRUH-seer YOWN! weet teen HOFF-ee duh WEYTH?)*
 *Yes, it's very interesting. But sometimes it's very busy! Do you like your work?*
 
 **Person A:** Ydw, mae'n iawn. Mae fy nghyd-weithwyr yn neis.
-*(uh-doo, mah-een yown. mah-ee vuh nghuhd-way-thyoor uhn nay-ss)*
+*(UH-doo, mine YOWN. my vuh NGHUD-way-thee-oor un NAYSS)*
 *Yes, it's okay. My colleagues are nice.*
 
 ---
 
 **Person A:** Pa fath o waith wyt ti'n gwneud?
-*(pah vahth oh wah-eeth weet teen goo-nay-d?)*
+*(pah VATH oh WEYTH weet teen GOO-nayd?)*
 *What kind of work do you do?*
 
 **Person B:** Dw i'n gweithio gyda chyfrifiaduron. Dw i'n datblygu meddalwedd.
-*(doo een gway-thyoh guh-dah khuh-vriv-yad-eer-on. doo een dat-bluh-gee meth-al-weth)*
+*(doo een GWAY-thee-oh GUH-dah khuh-vriv-yad-EER-on. doo een dat-BLUH-gee meth-AL-weth)*
 *I work with computers. I develop software.*
 
 **Person A:** Swnio'n ddiddorol!
-*(swon-yoh-oon thee-thor-ol!)*
+*(SWON-yoh-oon THEE-thor-ol!)*
 *Sounds interesting!*
 
 ## Daily Work Routine
 
 **Person A:** Pryd wyt ti'n dechrau gweithio?
-*(preed weet teen dekh-rah-ee gway-thyoh?)*
+*(preed weet teen DEKH-rye GWAY-thee-oh?)*
 *When do you start working?*
 
 **Person B:** Dw i'n dechrau am naw o'r gloch. Beth amdanat ti?
-*(doo een dekh-rah-ee am nah-oo or glokh. beth am-dan-at tee?)*
+*(doo een DEKH-rye am NOW ohr GLOKH. beth am-DAN-at tee?)*
 *I start at nine o'clock. What about you?*
 
 **Person A:** Dw i'n dechrau am wyth.
-*(doo een dekh-rah-ee am weeth)*
+*(doo een DEKH-rye am WEETH)*
 *I start at eight.*
 
 ---
 
 **Person A:** Faint o oriau wyt ti'n gweithio?
-*(vah-eent oh or-yah-ee weet teen gway-thyoh?)*
+*(VEYNT oh OR-yeye weet teen GWAY-thee-oh?)*
 *How many hours do you work?*
 
 **Person B:** Dw i'n gweithio saith awr y dydd. Beth amdanat ti?
-*(doo een gway-thyoh sah-eeth ah-oor uh deeth. beth am-dan-at tee?)*
+*(doo een GWAY-thee-oh SAITH OWR uh DEETH. beth am-DAN-at tee?)*
 *I work seven hours a day. What about you?*
 
 **Person A:** Dw i'n gweithio wyth awr fel arfer.
@@ -290,10 +290,10 @@
 
 | Welsh | Pronunciation | English |
 |-------|--------------|---------|
-| Beth wyt ti'n wneud i waith? | beth weet teen oo-nay-d ee wah-eeth? | What do you do for work? |
-| Ble wyt ti'n gweithio? | bleh weet teen gway-thyoh? | Where do you work? |
-| Wyt ti'n mwynhau dy waith? | weet teen moy-nhah-ee duh wah-eeth? | Do you enjoy your work? |
-| Pryd wyt ti'n dechrau gweithio? | preed weet teen dekh-rah-ee gway-thyoh? | When do you start working? |
-| Wyt ti'n gweithio o gartref? | weet teen gway-thyoh oh gar-trev? | Do you work from home? |
-| Wyt ti'n astudio ar hyn o bryd? | weet teen ast-id-yoh ar heen oh breed? | Are you studying at the moment? |
-| Sut mae'r dysgu'n mynd? | seet mah-eer duhs-geen mind? | How is the learning going? |
+| Beth wyt ti'n wneud i waith? | beth weet teen OO-nayd ee WEYTH? | What do you do for work? |
+| Ble wyt ti'n gweithio? | bleh weet teen GWAY-thee-oh? | Where do you work? |
+| Wyt ti'n mwynhau dy waith? | weet teen MWIN-high duh WEYTH? | Do you enjoy your work? |
+| Pryd wyt ti'n dechrau gweithio? | preed weet teen DEKH-rye GWAY-thee-oh? | When do you start working? |
+| Wyt ti'n gweithio o gartref? | weet teen GWAY-thee-oh oh GAR-trev? | Do you work from home? |
+| Wyt ti'n astudio ar hyn o bryd? | weet teen ast-ID-yoh ar heen oh BREED? | Are you studying at the moment? |
+| Sut mae'r dysgu'n mynd? | seet my-r DUSS-geen MEEND? | How is the learning going? |

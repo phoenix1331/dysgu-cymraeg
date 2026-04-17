@@ -3,61 +3,61 @@
 ## At the Shop
 
 **Person A:** Wyt ti'n mynd i'r siop heddiw?
-*(weet teen mind eer shop heh-thyoo?)*
+*(weet teen meend eer SHOP HEH-thee-oo?)*
 *Are you going to the shop today?*
 
 **Person B:** Ydw, rhaid i fi brynu bwyd. Wyt ti angen unrhyw beth?
-*(uh-doo, rhah-eed ee vee bruh-nee boo-id. weet tee ang-en uhn-rhew beth?)*
+*(UH-doo, RHEID ee vee BRUH-nee BOOD. weet tee ANG-en uhn-RHEW beth?)*
 *Yes, I have to buy food. Do you need anything?*
 
 **Person A:** Oes, alli di brynu bara i fi os gweli di'n dda?
-*(oh-ess, aLl-ee dee bruh-nee bar-ah ee vee oss gwel-ee deen thah?)*
+*(oyss, ALL-ee dee BRUH-nee BAR-ah ee vee oss GWEL-ee deen THAH?)*
 *Yes, can you buy bread for me please?*
 
 **Person B:** Wrth gwrs!
-*(oorth goorss!)*
+*(oorth GOORSS!)*
 *Of course!*
 
 ---
 
 **Person A:** Ble wyt ti'n siopa fel arfer?
-*(bleh weet teen shop-ah vel ar-ver?)*
+*(bleh weet teen SHOP-ah vel AR-ver?)*
 *Where do you shop usually?*
 
 **Person B:** Dw i'n mynd i [supermarket name]. Mae'n rhad ac yn gyfleus. Beth amdanat ti?
-*(doo een mind ee [supermarket name]. mah-een rhahd ak uhn guhv-lay-ss. beth am-dan-at tee?)*
+*(doo een meend ee [supermarket name]. mine RHAD ak un GUV-layss. beth am-DAN-at tee?)*
 *I go to [supermarket name]. It's cheap and convenient. What about you?*
 
 **Person A:** Dw i'n siopa ar-lein fel arfer. Mae'n haws!
-*(doo een shop-ah ar-lay-een vel ar-ver. mah-een hah-uss!)*
+*(doo een SHOP-ah ar-LEYEN vel AR-ver. mine HOWSS!)*
 *I shop online usually. It's easier!*
 
 ---
 
 **Person A:** Wyt ti wedi bod yn siopa heddiw?
-*(weet tee weh-dee bohd uhn shop-ah heh-thyoo?)*
+*(weet tee WEH-dee bohd un SHOP-ah HEH-thee-oo?)*
 *Have you been shopping today?*
 
 **Person B:** Ydw, es i i'r archfarchnad y bore 'ma. Roedd hi'n brysur iawn!
-*(uh-doo, ess ee eer arkh-varkh-nad uh bor-eh mah. roh-eedh heen bruh-sir yown!)*
+*(UH-doo, ess ee eer arkh-VARKH-nad uh BOR-eh mah. ROY-th heen BRUH-seer YOWN!)*
 *Yes, I went to the supermarket this morning. It was very busy!*
 
 **Person A:** Beth brynes di?
-*(beth bruh-ness dee?)*
+*(beth BRUH-ness dee?)*
 *What did you buy?*
 
 ---
 
 **Person A:** Faint gostiodd hynny?
-*(vah-eent gost-yoth huhn-ee?)*
+*(VEYNT gost-YOTH HUN-ee?)*
 *How much did that cost?*
 
 **Person B:** Costiodd e ddeg punt. Oedd e'n fargen dda!
-*(kost-yoth eh theg peent. oh-eedh een var-gen thah!)*
+*(kost-YOTH eh THEG PEENT. OY-th een VAR-gen THAH!)*
 *It cost ten pounds. It was a good bargain!*
 
 **Person A:** Da iawn!
-*(dah yown!)*
+*(dah YOWN!)*
 *Very good!*
 
 ## Making a Shopping List
@@ -310,10 +310,10 @@
 
 | Welsh | Pronunciation | English |
 |-------|--------------|---------|
-| Wyt ti'n mynd i'r siop? | weet teen mind eer shop? | Are you going to the shop? |
-| Wyt ti angen unrhyw beth? | weet tee ang-en uhn-rhew beth? | Do you need anything? |
-| Faint gostiodd hynny? | vah-eent gost-yoth huhn-ee? | How much did that cost? |
-| Beth sydd angen i ni brynu? | beth seeth ang-en ee nee bruh-nee? | What do we need to buy? |
-| Sut mae hwn yn edrych? | seet mah-ee hoon uhn ed-rikh? | How does this look? |
-| Ydy hyn yn rhad? | uh-dee heen uhn rhahd? | Is this cheap? |
-| Wyt ti'n siopa ar-lein? | weet teen shop-ah ar-lay-een? | Do you shop online? |
+| Wyt ti'n mynd i'r siop? | weet teen meend eer SHOP? | Are you going to the shop? |
+| Wyt ti angen unrhyw beth? | weet tee ANG-en uhn-RHEW beth? | Do you need anything? |
+| Faint gostiodd hynny? | VEYNT gost-YOTH HUN-ee? | How much did that cost? |
+| Beth sydd angen i ni brynu? | beth SEETH ANG-en ee nee BRUH-nee? | What do we need to buy? |
+| Sut mae hwn yn edrych? | seet MY hoon un ED-rikh? | How does this look? |
+| Ydy hyn yn rhad? | UH-dee heen un RHAD? | Is this cheap? |
+| Wyt ti'n siopa ar-lein? | weet teen SHOP-ah ar-LEYEN? | Do you shop online? |

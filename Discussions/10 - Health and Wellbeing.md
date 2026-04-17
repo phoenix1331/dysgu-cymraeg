@@ -396,11 +396,11 @@
 
 | Welsh | Pronunciation | English |
 |-------|--------------|---------|
-| Sut wyt ti'n teimlo heddiw? | seet weet teen tay-m-loh heh-thyoo? | How are you feeling today? |
-| Beth sy'n bod? | beth seen bohd? | What's wrong? |
-| Mae pen tost gyda fi | mah-ee pen tost guh-dah vee | I have a headache |
-| Mae annwyd gyda fi | mah-ee an-oo-id guh-dah vee | I have a cold |
-| Wyt ti'n edrych ar ôl dy iechyd? | weet teen ed-rikh ar ohl duh yekh-id? | Do you look after your health? |
-| Wyt ti'n cadw'n heini? | weet teen kad-oo-oon hay-nee? | Do you keep fit? |
-| Dw i'n teimlo'n stressed | doo een tay-m-loh-oon stress-d | I'm feeling stressed |
-| Allet ti helpu fi? | aLl-et tee hel-pee vee? | Could you help me? |
+| Sut wyt ti'n teimlo heddiw? | seet weet teen TAY-m-loh HEH-thee-oo? | How are you feeling today? |
+| Beth sy'n bod? | beth seen BOHD? | What's wrong? |
+| Mae pen tost gyda fi | my pen TOST GUH-dah vee | I have a headache |
+| Mae annwyd gyda fi | my AN-oo-id GUH-dah vee | I have a cold |
+| Wyt ti'n edrych ar ôl dy iechyd? | weet teen ED-rikh ar OHL duh YEKH-id? | Do you look after your health? |
+| Wyt ti'n cadw'n heini? | weet teen KAD-oo-oon HAY-nee? | Do you keep fit? |
+| Dw i'n teimlo'n stressed | doo een TAY-m-loh-oon STRESS-d | I'm feeling stressed |
+| Allet ti helpu fi? | ALL-et tee HEL-pee vee? | Could you help me? |

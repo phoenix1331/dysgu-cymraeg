@@ -364,10 +364,10 @@
 
 | Welsh | Pronunciation | English |
 |-------|--------------|---------|
-| Sut wyt ti'n mynd i'r gwaith? | seet weet teen mind eer gwah-eeth? | How do you get to work? |
-| Faint o amser mae'n cymryd? | vah-eent oh am-ser mah-een kuhm-rid? | How much time does it take? |
-| Wyt ti'n defnyddio trafnidiaeth gyhoeddus? | weet teen dev-nuh-thyoh trav-nid-yah-eeth guh-hoy-eth-iss? | Do you use public transport? |
-| Pryd mae'r trên nesaf? | preed mah-eer tren ness-av? | When is the next train? |
-| Wyt ti wedi bod ar wyliau? | weet tee weh-dee bohd ar wuhl-yah-ee? | Have you been on holiday? |
-| Ble mae'r orsaf drenau? | bleh mah-eer or-sav dren-ah-ee? | Where is the train station? |
-| Dw i ar goll | doo ee ar goLl | I'm lost |
+| Sut wyt ti'n mynd i'r gwaith? | seet weet teen meend eer GWEYTH? | How do you get to work? |
+| Faint o amser mae'n cymryd? | VEYNT oh AM-ser mine KUM-rid? | How much time does it take? |
+| Wyt ti'n defnyddio trafnidiaeth gyhoeddus? | weet teen dev-NUH-thee-oh trav-nid-YETH guh-HOY-eth-iss? | Do you use public transport? |
+| Pryd mae'r trên nesaf? | preed my-r TREN NESS-av? | When is the next train? |
+| Wyt ti wedi bod ar wyliau? | weet tee WEH-dee bohd ar WUL-yeye? | Have you been on holiday? |
+| Ble mae'r orsaf drenau? | bleh my-r OR-sav DREN-eye? | Where is the train station? |
+| Dw i ar goll | doo ee ar GOLL | I'm lost |

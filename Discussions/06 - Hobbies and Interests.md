@@ -3,99 +3,99 @@
 ## Talking About Hobbies
 
 **Person A:** Beth wyt ti'n hoffi gwneud yn dy amser sbâr?
-*(beth weet teen hoff-ee goo-nay-d uhn duh am-ser sbahr?)*
+*(beth weet teen HOFF-ee GOO-nayd un duh AM-ser SBAHR?)*
 *What do you like to do in your spare time?*
 
 **Person B:** Dw i'n hoffi darllen a mynd am dro. Beth amdanat ti?
-*(doo een hoff-ee dar-LLen ah mind am droh. beth am-dan-at tee?)*
+*(doo een HOFF-ee DAR-LLen ah meend am DROH. beth am-DAN-at tee?)*
 *I like reading and going for walks. What about you?*
 
 **Person A:** Dw i'n hoffi chwarae gemau fideo a gwrando ar gerddoriaeth.
-*(doo een hoff-ee khwah-rah-ee gem-ah-ee vid-ee-oh ah gwran-doh ar ger-thor-yah-eeth)*
+*(doo een HOFF-ee KHWAH-rye GEM-eye VID-ee-oh ah GWRAN-doh ar ger-THOR-yeth)*
 *I like playing video games and listening to music.*
 
 ---
 
 **Person A:** Oes hobïau gyda ti?
-*(oh-ess hob-ee-ah-ee guh-dah tee?)*
+*(oyss hob-EE-eye GUH-dah tee?)*
 *Do you have hobbies?*
 
 **Person B:** Oes, dw i'n chwarae gitâr ac yn peintio. Beth am ti?
-*(oh-ess, doo een khwah-rah-ee git-ahr ak uhn pay-nt-yoh. beth am tee?)*
+*(oyss, doo een KHWAH-rye git-AHR ak un PAYNT-yoh. beth am tee?)*
 *Yes, I play guitar and paint. What about you?*
 
 **Person A:** Dw i'n hoffi coginio ac yn dysgu Cymraeg!
-*(doo een hoff-ee kog-in-yoh ak uhn duhs-gee kuhm-rah-eeg!)*
+*(doo een HOFF-ee kog-IN-yoh ak un DUSS-gee kum-REYG!)*
 *I like cooking and learning Welsh!*
 
 ---
 
 **Person A:** Ers pryd wyt ti'n gwneud hynny?
-*(erss preed weet teen goo-nay-d huhn-ee?)*
+*(erss preed weet teen GOO-nayd HUN-ee?)*
 *How long have you been doing that?*
 
 **Person B:** Dw i wedi bod yn chwarae gitâr ers pum mlynedd. Ers pryd wyt ti'n dysgu Cymraeg?
-*(doo ee weh-dee bohd uhn khwah-rah-ee git-ahr erss peem mluhn-eedh. erss preed weet teen duhs-gee kuhm-rah-eeg?)*
+*(doo ee WEH-dee bohd un KHWAH-rye git-AHR erss PEEM MLUN-eth. erss preed weet teen DUSS-gee kum-REYG?)*
 *I've been playing guitar for five years. How long have you been learning Welsh?*
 
 **Person A:** Dw i wedi bod yn dysgu ers blwyddyn.
-*(doo ee weh-dee bohd uhn duhs-gee erss bloo-ith-in)*
+*(doo ee WEH-dee bohd un DUSS-gee erss BLOO-ith-in)*
 *I've been learning for a year.*
 
 ## Sports and Exercise
 
 **Person A:** Wyt ti'n chwarae unrhyw chwaraeon?
-*(weet teen khwah-rah-ee uhn-rhew khwah-rah-ee-on?)*
+*(weet teen KHWAH-rye uhn-RHEW KHWAH-rye-on?)*
 *Do you play any sports?*
 
 **Person B:** Ydw, dw i'n chwarae rygbi bob wythnos. Wyt ti'n chwarae unrhyw beth?
-*(uh-doo, doo een khwah-rah-ee ruhg-bee bob weeth-noss. weet teen khwah-rah-ee uhn-rhew beth?)*
+*(UH-doo, doo een KHWAH-rye RUG-bee bob WEETH-noss. weet teen KHWAH-rye uhn-RHEW beth?)*
 *Yes, I play rugby every week. Do you play anything?*
 
 **Person A:** Ydw, dw i'n chwarae pêl-droed a dw i'n mynd i'r gampfa.
-*(uh-doo, doo een khwah-rah-ee pehl-droy-ed ah doo een mind eer gam-pfah)*
+*(UH-doo, doo een KHWAH-rye PEHL-droyd ah doo een meend eer GAMP-fah)*
 *Yes, I play football and I go to the gym.*
 
 ---
 
 **Person A:** Pa dîm wyt ti'n gefnogi?
-*(pah deem weet teen gev-nog-ee?)*
+*(pah DEEM weet teen gev-NOG-ee?)*
 *Which team do you support?*
 
 **Person B:** Dw i'n gefnogi [team name]. Wyt ti'n hoffi pêl-droed?
-*(doo een gev-nog-ee [team name]. weet teen hoff-ee pehl-droy-ed?)*
+*(doo een gev-NOG-ee [team name]. weet teen HOFF-ee PEHL-droyd?)*
 *I support [team name]. Do you like football?*
 
 **Person A:** Ydw, dw i'n gefnogi [team name] hefyd!
-*(uh-doo, doo een gev-nog-ee [team name] heh-vid!)*
+*(UH-doo, doo een gev-NOG-ee [team name] HEH-vid!)*
 *Yes, I support [team name] too!*
 
 ---
 
 **Person A:** Wyt ti'n cadw'n heini?
-*(weet teen kad-oo-oon hay-nee?)*
+*(weet teen KAD-oo-oon HAY-nee?)*
 *Do you keep fit?*
 
 **Person B:** Ydw, dw i'n rhedeg bob bore. Beth amdanat ti?
-*(uh-doo, doo een rhed-eg bob bor-eh. beth am-dan-at tee?)*
+*(UH-doo, doo een RHED-eg bob BOR-eh. beth am-DAN-at tee?)*
 *Yes, I run every morning. What about you?*
 
 **Person A:** Dw i'n nofio ddwywaith yr wythnos.
-*(doo een nov-yoh thoo-ee-wah-eeth eer weeth-noss)*
+*(doo een NOV-yoh thoo-ee-WEYTH eer WEETH-noss)*
 *I swim twice a week.*
 
 ---
 
 **Person A:** Pryd wnes di ddechrau chwarae [sport]?
-*(preed oo-ness dee thekh-rah-ee khwah-rah-ee [sport]?)*
+*(preed OO-nest dee THEKH-rye KHWAH-rye [sport]?)*
 *When did you start playing [sport]?*
 
 **Person B:** Dechreuais i pan oeddwn i'n blentyn. Dw i'n ei garu e!
-*(dekh-ray-ah-eess ee pan oh-eed-oon een plen-tin. doo een ay gar-ee eh!)*
+*(dekh-RAY-eyess ee pan OY-thoon een PLEN-tin. doo een ay GAR-ee eh!)*
 *I started when I was a child. I love it!*
 
 **Person A:** Mae hynny'n wych!
-*(mah-ee huhn-een weekh!)*
+*(my HUN-een WEEKH!)*
 *That's great!*
 
 ## Arts and Culture
@@ -238,10 +238,10 @@
 
 | Welsh | Pronunciation | English |
 |-------|--------------|---------|
-| Beth wyt ti'n hoffi gwneud yn dy amser sbâr? | beth weet teen hoff-ee goo-nay-d uhn duh am-ser sbahr? | What do you like to do in your spare time? |
-| Oes hobïau gyda ti? | oh-ess hob-ee-ah-ee guh-dah tee? | Do you have hobbies? |
-| Ers pryd wyt ti'n gwneud hynny? | erss preed weet teen goo-nay-d huhn-ee? | How long have you been doing that? |
-| Wyt ti'n chwarae unrhyw chwaraeon? | weet teen khwah-rah-ee uhn-rhew khwah-rah-ee-on? | Do you play any sports? |
-| Pa dîm wyt ti'n gefnogi? | pah deem weet teen gev-nog-ee? | Which team do you support? |
-| Wyt ti'n hoffi cerddoriaeth? | weet teen hoff-ee ker-thor-yah-eeth? | Do you like music? |
-| Wyt ti'n greadigol? | weet teen grey-ad-ig-ol? | Are you creative? |
+| Beth wyt ti'n hoffi gwneud yn dy amser sbâr? | beth weet teen HOFF-ee GOO-nayd un duh AM-ser SBAHR? | What do you like to do in your spare time? |
+| Oes hobïau gyda ti? | oyss hob-EE-eye GUH-dah tee? | Do you have hobbies? |
+| Ers pryd wyt ti'n gwneud hynny? | erss preed weet teen GOO-nayd HUN-ee? | How long have you been doing that? |
+| Wyt ti'n chwarae unrhyw chwaraeon? | weet teen KHWAH-rye uhn-RHEW KHWAH-rye-on? | Do you play any sports? |
+| Pa dîm wyt ti'n gefnogi? | pah DEEM weet teen gev-NOG-ee? | Which team do you support? |
+| Wyt ti'n hoffi cerddoriaeth? | weet teen HOFF-ee ker-THOR-yeth? | Do you like music? |
+| Wyt ti'n greadigol? | weet teen grey-ad-IG-ol? | Are you creative? |
