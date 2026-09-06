@@ -1,4 +1,7 @@
-# Dysgu Cymraeg — Welsh Learning Vault
+# Dysgu Cymraeg — Welsh Learning Obsidian Vault
+
+<img width="3192" height="1906" alt="Screenshot 2026-09-06 182927" src="https://github.com/user-attachments/assets/7a8f65b1-fed3-493e-85ff-b413580f7b84" />
+
 
 An open, self-study Welsh (Cymraeg) course packaged as an [Obsidian](https://obsidian.md) vault. It takes a complete beginner (CEFR A1) to conversational competency (B1) over roughly 12 weeks, with grammar, thematic vocabulary, conversation practice, reading texts, songs, weekly assessments, and an automated daily-practice generator.
 
