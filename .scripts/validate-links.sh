@@ -3,7 +3,7 @@
 # Obsidian Vault Link Validator
 # Checks for broken wikilinks in the vault
 
-VAULT_PATH="/mnt/c/Users/darre/Documents/dev/obsidian"
+VAULT_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 BROKEN_LINKS=()
 
 echo "🔍 Validating links in Obsidian vault..."

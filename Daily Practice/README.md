@@ -98,7 +98,7 @@ Each practice note includes automatic links to:
 
 ### Location
 ```
-/mnt/c/Users/darre/Documents/dev/obsidian/.scripts/dw-cymraeg-daily.sh
+.scripts/dw-cymraeg-daily.sh   (relative to the vault root)
 ```
 
 ### What It Does
@@ -106,7 +106,7 @@ Each practice note includes automatic links to:
 2. Generates a new markdown file with today's date (YYYY-MM-DD.md)
 3. Pulls random phrases and vocabulary from your learning notes
 4. Creates interactive exercises with collapsible answers
-5. Saves to `Learning/Cymraeg/Daily Practice/`
+5. Saves to `Daily Practice/`
 
 ### File Naming
 - Format: `YYYY-MM-DD.md`
@@ -124,8 +124,8 @@ Each practice note includes automatic links to:
 ## 🔄 Customization
 
 The script pulls from these files - you can edit them to customize your practice:
-- `Learning/Cymraeg/3- Basic Phrases.md`
-- `Learning/Cymraeg/13- Clothing and Accessories.md`
+- `General/3- Basic Phrases.md`
+- `General/13- Clothing and Accessories.md`
 
 Add more content to these files, and it will automatically appear in future practice sessions!
 
@@ -143,7 +143,7 @@ Review these notes weekly to see your progress!
 ### "Practice note already exists"
 The script won't overwrite existing notes. If you want to regenerate today's practice, delete the existing file first:
 ```bash
-rm "Learning/Cymraeg/Daily Practice/$(date +%Y-%m-%d).md"
+rm "Daily Practice/$(date +%Y-%m-%d).md"
 ```
 
 ### Command not found
@@ -154,8 +154,8 @@ chmod +x .scripts/dw-cymraeg-daily.sh
 
 ### No random content appearing
 Check that your source files exist:
-- `Learning/Cymraeg/3- Basic Phrases.md`
-- `Learning/Cymraeg/13- Clothing and Accessories.md`
+- `General/3- Basic Phrases.md`
+- `General/13- Clothing and Accessories.md`
 
 ## 🎉 Benefits
 

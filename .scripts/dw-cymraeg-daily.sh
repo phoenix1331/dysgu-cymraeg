@@ -7,10 +7,11 @@
 DATE=$(date +%Y-%m-%d)
 DAY_NAME=$(date +%A)
 
-# Vault root directory
-VAULT_ROOT="/mnt/c/Users/darre/Documents/dev/obsidian"
-CYMRAEG_DIR="$VAULT_ROOT/Learning/Cymraeg"
-PRACTICE_DIR="$CYMRAEG_DIR/Daily Practice"
+# Vault root directory (auto-detected as the parent of the .scripts directory)
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+VAULT_ROOT="$(dirname "$SCRIPT_DIR")"
+CYMRAEG_DIR="$VAULT_ROOT"
+PRACTICE_DIR="$VAULT_ROOT/Daily Practice"
 OUTPUT_FILE="$PRACTICE_DIR/$DATE.md"
 
 # Check if today's practice already exists
@@ -36,24 +37,24 @@ get_random_table_rows() {
 }
 
 # Get random content
-PHRASES_FILE="$CYMRAEG_DIR/Basic Phrases.md"
+PHRASES_FILE="$CYMRAEG_DIR/General/3- Basic Phrases.md"
 PHRASES=$(get_random_table_rows "$PHRASES_FILE" 5)
 if [ -n "$PHRASES" ]; then
     PHRASES_CONTENT="| Welsh | Phonetic | English |
 |-------|----------|---------|
 $PHRASES"
 else
-    PHRASES_CONTENT="Review: [[Learning/Cymraeg/Basic Phrases]]"
+    PHRASES_CONTENT="Review: [[General/3- Basic Phrases]]"
 fi
 
-VOCAB_FILE="$CYMRAEG_DIR/Clothing and Accessories.md"
+VOCAB_FILE="$CYMRAEG_DIR/General/13- Clothing and Accessories.md"
 VOCAB=$(get_random_table_rows "$VOCAB_FILE" 6)
 if [ -n "$VOCAB" ]; then
     VOCAB_CONTENT="| Welsh | Phonetic | English | Gender |
 |-------|----------|---------|--------|
 $VOCAB"
 else
-    VOCAB_CONTENT="Review: [[Learning/Cymraeg/Clothing and Accessories]]"
+    VOCAB_CONTENT="Review: [[General/13- Clothing and Accessories]]"
 fi
 
 # Create the daily practice note
@@ -279,9 +280,9 @@ Remember: Both his/her use "ei" but different mutations!
 
 ---
 
-**Previous:** [[Learning/Cymraeg/Daily Practice/$PREV_DATE|Yesterday's Practice]]
-**Next:** [[Learning/Cymraeg/Daily Practice/$NEXT_DATE|Tomorrow's Practice]]
-**Back to:** [[Learning/Cymraeg/1- Cymraeg MOC|Cymraeg MOC]]
+**Previous:** [[Daily Practice/$PREV_DATE|Yesterday's Practice]]
+**Next:** [[Daily Practice/$NEXT_DATE|Tomorrow's Practice]]
+**Back to:** [[General/1- Cymraeg MOC|Cymraeg MOC]]
 
 ---
 
