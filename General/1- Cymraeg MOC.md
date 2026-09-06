@@ -231,21 +231,35 @@ updated: 2026-04-17
 **Graded Reading System:**
 - [[Reading Practice/README|Reading Practice Guide]] - Complete reading system ✨
 
-**Sample Texts Available:**
-- [[Reading Practice/A1-01 - Fy Nheulu|A1-01 - Fy Nheulu (My Family)]] - Beginner text ✨
-- [[Reading Practice/B1-01 - Stori Fer Y Trên Olaf|B1-01 - Y Trên Olaf (The Last Train)]] - Mystery story ✨
+**A1 Level Texts (Complete!):** ✅
+- [[Reading Practice/A1-01 - Fy Nheulu|A1-01 - Fy Nheulu (My Family)]]
+- [[Reading Practice/A1-02 - Fy Niwrnod|A1-02 - Fy Niwrnod (My Day)]]
+- [[Reading Practice/A1-03 - Yn y Caffi|A1-03 - Yn y Caffi (At the Café)]]
+- [[Reading Practice/A1-04 - Yn y Siop|A1-04 - Yn y Siop (At the Shop)]]
+- [[Reading Practice/A1-05 - Y Tywydd Heddiw|A1-05 - Y Tywydd Heddiw (The Weather Today)]]
 
-**Coming Soon:**
-- 4 more A1 texts (simple sentences)
-- 5 A2 texts (paragraph texts)
-- 4 more B1 texts (longer passages)
+**A2 Level Texts (Complete!):** ✅
+- [[Reading Practice/A2-01 - Gwyliau yn y Gogledd|A2-01 - Gwyliau yn y Gogledd (Holiday in the North)]]
+- [[Reading Practice/A2-02 - Diwrnod yn y Gwaith|A2-02 - Diwrnod yn y Gwaith (A Day at Work)]]
+- [[Reading Practice/A2-03 - Mynd ir Feddygfa|A2-03 - Mynd i'r Feddygfa (Going to the Doctor)]]
+- [[Reading Practice/A2-04 - Diwrnod Marchnad|A2-04 - Diwrnod Marchnad (Market Day)]]
+- [[Reading Practice/A2-05 - Y Penwythnos|A2-05 - Y Penwythnos (The Weekend)]]
+
+**B1 Level Texts (Complete!):** ✅
+- [[Reading Practice/B1-01 - Stori Fer Y Trên Olaf|B1-01 - Y Trên Olaf (The Last Train)]] - Mystery story
+- [[Reading Practice/B1-02 - Symud i Gymru|B1-02 - Symud i Gymru (Moving to Wales)]]
+- [[Reading Practice/B1-03 - Yr Eisteddfod Genedlaethol|B1-03 - Yr Eisteddfod Genedlaethol (The National Eisteddfod)]]
+- [[Reading Practice/B1-04 - Chwedl Gymreig Gelert|B1-04 - Chwedl Gymreig Gelert (Welsh Legend: Gelert)]]
+- [[Reading Practice/B1-05 - Cymru Heddiw|B1-05 - Cymru Heddiw (Wales Today)]]
+
+**Total:** 15 complete reading texts across all CEFR levels!
 
 ---
 
 ## 🎵 Welsh Songs
 
 **Learn Through Music:**
-- Browse all: `Learning/Cymraeg/Songs/`
+- Browse all: `Songs/`
 - 5 Welsh songs with translations, phonetics, and cultural notes
 
 ---
@@ -263,13 +277,12 @@ updated: 2026-04-17
 - Track your daily progress and notes
 
 ### Recent Practice Sessions
-- Browse all: `Learning/Cymraeg/Daily Practice/`
+- Browse all: `Daily Practice/`
 - [[Daily Practice/2026-04-13|Recent Practice]]
 
 ### Setup
-To use the daily practice generator, add the `.scripts` directory to your PATH or run:
+To use the daily practice generator, add the `.scripts` directory to your PATH or run it from the vault root:
 ```bash
-cd /mnt/c/Users/darre/Documents/dev/obsidian
 .scripts/dw-cymraeg-daily
 ```
 
@@ -433,10 +446,11 @@ cd /mnt/c/Users/darre/Documents/dev/obsidian
 - **6 Vocabulary Collections** (1,500+ words)
 - **15 Conversation Topics**
 - **12 Weekly Assessments** (650 points)
-- **2+ Reading Texts** (framework for 15 total)
+- **15 Reading Texts** (A1, A2, B1 levels - complete!) ✅
 - **5 Welsh Songs**
 - **2 Cultural Guides**
 - **1 Complete 12-Week Curriculum**
+- **1 Comprehensive Welsh-English Dictionary** (300+ entries)
 
 **Estimated Time to B1:**
 - **12 weeks** at 30-60 minutes daily
