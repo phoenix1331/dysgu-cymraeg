@@ -1,3 +1,10 @@
+# Obsidian workspace state (per-machine)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .trash/
+
+# Local editor / tooling config
+.claude/
+
+# Generated daily practice notes (uncomment to keep them out of the repo)
+# Daily Practice/20*.md
